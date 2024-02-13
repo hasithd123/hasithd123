@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hasithd123
-- 👀 I’m interested in bot deploying
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web deploying
+- 🌱 I’m currently learning React js
+- 📫 How to reach me hasithd123@gmail.com
 
 <!---
 hasithd123/hasithd123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
